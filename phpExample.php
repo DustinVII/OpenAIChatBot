@@ -1,5 +1,5 @@
 <?php
-// PHP CLI ChatGPT clientt
+// PHP CLI ChatGPT client
 // Run with: php main.php
 // Create your API key at https://platform.openai.com/account/api-keys
 
